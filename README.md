@@ -101,5 +101,5 @@ api_key = "sk-..."  # Replace with your actual API key
 One line to run MedScholar:
 
 ```bash
-python run_medscolar_agent.py
+python run_medscholar_agent.py
 ```
