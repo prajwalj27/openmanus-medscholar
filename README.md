@@ -101,22 +101,5 @@ api_key = "sk-..."  # Replace with your actual API key
 One line to run MedScholar:
 
 ```bash
-python main.py
-```
-
-Then input your medical literature survey request via terminal!
-
-For MCP tool version, you can run:
-
-```bash
-python run_mcp.py
-```
-
-For unstable multi-agent version, you also can run:
-
-```bash
-python run_flow.py
-```<p align="center">
-  <img src="assets/logo.jpg" width="200"/>
-</p>
+python run_medscholar_agent.py
 ```
